@@ -1,0 +1,23 @@
+{
+  "name": "study-101",
+  "version": "1.0.0",
+  "description": "study-101",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kate-ez/study-101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kate-ez/study-101/issues"
+  },
+  "homepage": "https://github.com/kate-ez/study-101#readme"
+}
